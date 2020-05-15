@@ -1,6 +1,6 @@
 # Docs
 
-Unity Package Manager Scoped Registry:
+Unity Package Manager [Scoped Registry](https://docs.unity3d.com/Manual/upm-scoped.html):
 
 ```json
 "scopedRegistries": [
@@ -13,7 +13,9 @@ Unity Package Manager Scoped Registry:
     }
 ]
 ```
+
 or
+
 ```json
 "scopedRegistries": [
     {
